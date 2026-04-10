@@ -1,0 +1,77 @@
+# ============================================================
+# ADNI Data — DO NOT SHARE (Data Use Agreement)
+# Raw and processed subject-level data from ADNI
+# Apply for access at: https://adni.loni.usc.edu
+# ============================================================
+tables/
+data/
+processed/
+new plots
+notebooks
+plan
+main.ipynb 
+requirements.txt
+
+# Subject-level derived CSVs in reports (contain individual RIDs)
+reports/ADNI_Master_Longitudinal.csv
+reports/ADNI_Complete_Cases.csv
+reports/ADNI_Baseline_Analysis.csv
+reports/ADNI_Longitudinal_Analysis.csv
+reports/Cox_PH_Results.csv
+reports/Sensitivity1_Stratified_Dx.csv
+reports/Sensitivity_Summary_All.csv
+
+# ============================================================
+# Claude Code — local config and chat history
+# ============================================================
+.claude/
+.long_env
+
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# ============================================================
+# Jupyter
+# ============================================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*.ipynb_metadata
+
+# ============================================================
+# OS / Editor
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ============================================================
+# Misc large or sensitive files
+# ============================================================
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+discussion.pdf

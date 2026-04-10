@@ -1,0 +1,40 @@
+======================================================================
+ADNI DATA QUALITY REPORT
+Generated: 2026-03-23 12:42
+======================================================================
+
+MASTER DATASET
+  Total observations : 14,380
+  Unique subjects    : 4,717
+
+COMPLETE CASES (MMSE + APOE + Hippo + BL Dx)
+  Subjects           : 2,417
+  Observations       : 11,793
+
+BASELINE ANALYSIS SAMPLE
+  Subjects           : 2,417
+
+APOE4 DOSE DISTRIBUTION (complete cases, baseline)
+  Dose 0: 1322 (54.7%)
+  Dose 1: 870 (36.0%)
+  Dose 2: 225 (9.3%)
+
+BASELINE DIAGNOSIS DISTRIBUTION (complete cases)
+  MCI: 1108 (45.8%)
+  CN: 901 (37.3%)
+  AD: 408 (16.9%)
+
+MISSING DATA (master dataset)
+  MMSCORE: 0 (0.0%) missing
+  CDRSB: 602 (4.2%) missing
+  ADAS_COG: 1953 (13.6%) missing
+  APOE4_DOSE: 1906 (13.3%) missing
+  HIPPO_TOTAL: 1990 (13.8%) missing
+  HIPPO_ICV_ADJ: 1990 (13.8%) missing
+  GDTOTAL: 1430 (9.9%) missing
+  NPISCORE: 9284 (64.6%) missing
+  BL_DX_LABEL: 965 (6.7%) missing
+  AGE: 69 (0.5%) missing
+  SEX: 416 (2.9%) missing
+  PTEDUCAT: 424 (2.9%) missing
+  YEARS_FROM_BL: 3 (0.0%) missing
