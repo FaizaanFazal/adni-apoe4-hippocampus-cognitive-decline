@@ -1,6 +1,6 @@
 # APOE ε4 as a Predictor of Cognitive Decline and Its Interaction with Hippocampal Volume in Alzheimer's Disease
 
-> Code repository for my paper submitted to *Frontiers in Aging Neuroscience* (2026)
+> Code repository for my paper published in *Frontiers in Aging Neuroscience* (2026)  doi: 10.3389/fnagi.2026.1730265
 
 ---
 
@@ -198,7 +198,7 @@ The `plan/adni_pipeline.py` file was my first draft of the full pipeline as a si
 If you use my pipeline or build on it, please cite the paper:
 
 ```
-[Citation will be added upon publication]
+doi: 10.3389/fnagi.2026.1730265
 ```
 
 ---
